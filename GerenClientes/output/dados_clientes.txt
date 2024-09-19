@@ -1,0 +1,6 @@
+Nome do Cliente: Teste
+Aparelho: tst
+Valor do Serviço: R$ 12
+Número de Contato: 12345678901
+Problema: Teste1
+---------------------------------
